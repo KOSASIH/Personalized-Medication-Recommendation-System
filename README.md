@@ -5,7 +5,6 @@
 [![Health Canada Approved](https://img.shields.io/badge/Health%20Canada-Approved-ff5722.svg)](https://www.canada.ca/en/health-canada.html)
 [![HIPAA Compliant](https://img.shields.io/badge/HIPAA-Compliant-ff5722.svg)](https://www.hhs.gov/hipaa/index.html)
 [![GDPR Compliant](https://img.shields.io/badge/GDPR-Compliant-007bff.svg)](https://gdpr-info.eu)
-[![NIST Cybersecurity Framework](https://img.shields.io/badge/NIST-Cybersecurity-Framework-009688.svg)](https://www.nist.gov/cyberframework)
 [![CCPA Compliant](https://img.shields.io/badge/CCPA-Compliant-ffcc00.svg)](https://oag.ca.gov/privacy/ccpa)
 [![ISO 27001 Certified](https://img.shields.io/badge/ISO%2027001-Certified-3f51b5.svg)](https://www.iso.org/iso-27001-information-security.html)
 

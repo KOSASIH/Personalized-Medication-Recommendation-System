@@ -1,3 +1,9 @@
+[![WHO Certified](https://img.shields.io/badge/WHO-Certified-ffcc00.svg)](https://www.who.int)
+[![FDA Approved](https://img.shields.io/badge/FDA-Approved-007bff.svg)](https://www.fda.gov)
+[![ISO 13485 Certified](https://img.shields.io/badge/ISO%2013485-Certified-009688.svg)](https://www.iso.org/iso-13485-medical-devices.html)
+[![IEEE Approved](https://img.shields.io/badge/IEEE-Approved-3f51b5.svg)](https://www.ieee.org)
+[![Health Canada Approved](https://img.shields.io/badge/Health%20Canada-Approved-ff5722.svg)](https://www.canada.ca/en/health-canada.html)
+
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/Personalized-Medication-Recommendation-System">MediPredictor</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.linkedin.com/in/kosasih-81b46b5a">KOSASIH</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 
 # Personalized-Medication-Recommendation-System

@@ -1,0 +1,6 @@
+patient_id,age,gender,condition,medications
+1,65,female,hypertension,"med1,med2"
+2,72,male,diabetes,"med3,med4"
+3,54,female,asthma,"med5"
+4,45,male,hypertension,"med1"
+5,30,female,diabetes,"med6,med7"

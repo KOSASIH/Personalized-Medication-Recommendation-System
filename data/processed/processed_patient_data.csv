@@ -1,0 +1,6 @@
+patient_id,age,gender,hypertension,diabetes,asthma
+1,65,0,1,0,0
+2,72,1,1,1,0
+3,54,0,0,0,1
+4,45,1,1,0,0
+5,30,0,0,1,0

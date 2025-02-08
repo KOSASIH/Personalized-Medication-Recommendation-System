@@ -1,2 +1,36 @@
-# Google App Engine generated folder
-appengine-generated/
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.log
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# React build
+build/
+dist/
+
+# IDEs and editors
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# OS generated files
+.DS_Store
+Thumbs.db

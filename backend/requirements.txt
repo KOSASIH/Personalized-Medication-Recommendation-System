@@ -4,5 +4,5 @@ fhirclient==4.0.0
 scikit-learn==1.0.2
 joblib==1.1.0
 pandas==1.3.5
-numpy==1.21.6
+numpy==1.22.0
 logging==0.5.1.2

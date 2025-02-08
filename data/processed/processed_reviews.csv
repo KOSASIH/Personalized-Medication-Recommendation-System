@@ -1,0 +1,6 @@
+review_id,patient_id,review_text,sentiment
+1,1,"this medication works great!",positive
+2,2,"i had some side effects from this drug.",negative
+3,3,"very effective for my condition.",positive
+4,4,"not happy with the results.",negative
+5,5,"it helped me manage my diabetes well.",positive
